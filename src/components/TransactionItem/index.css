@@ -1,0 +1,15 @@
+/* Write your CSS here */
+.list-container{
+    background-color: white;
+    width:180px;
+    height:20px;
+    display: flex;
+    flex-direction: row;
+
+}
+p{
+    margin: 10px;
+}
+img{
+    margin:10px;
+}
